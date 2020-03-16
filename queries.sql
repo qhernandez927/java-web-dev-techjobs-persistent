@@ -1,5 +1,5 @@
 ## Part 1: Test it with SQL
-
+DESCRIBE techjobs
 ## Part 2: Test it with SQL
 
 ## Part 3: Test it with SQL
